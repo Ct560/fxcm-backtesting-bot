@@ -4,7 +4,7 @@ An automatic strategy backtesting repository built on the fxcmpy API wrapper for
 ## Motivation:
 This project exists for four main reasons: 
   1. A practical example to motivate teaching myself about trading and investing my own money.
-  2. A project to present my python programming skills and, hopefully, a strong start to building a GitHub portfolio. 
+  2. A project to present and imporve my python programming skills and, hopefully, a strong start to building a GitHub portfolio. 
   3. By the end it will be able to geuinely help me implement and build trading strategies.
   4. For fun. I enjoy coding as a past time and this is a great way to fill my weekends!
 
