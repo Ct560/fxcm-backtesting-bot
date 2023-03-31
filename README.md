@@ -9,7 +9,7 @@ This project exists for four main reasons:
   4. For fun. I enjoy coding as a past time and this is a fun way to spend my weekends!
 
 ## What's Contained:
-At present contains a 'codebase.py' script which will lay out the functional backbone of the bot. This will be where indicators can be definied and implemented.
+At present contains a 'codebase.py' script which will lay out the functional backbone of the bot. This will be where indicators can be defined and implemented.
 
 The repo also contains a 'backtestFramework.py' script, which introduces the class structure for employing strategies an indicators. The approach here is to define
 instances of an indicator object as some indicator function and conditions on that indicator 
